@@ -1,3 +1,3 @@
-## JavaScript Sorting Algorithms
+## JavaScript Algorithms
 
-#### [Try them out here](https://codepen.io/gregorib/full/qBBjNoz)
+#### [Try the sroting algorithms out here](https://codepen.io/gregorib/full/qBBjNoz)
